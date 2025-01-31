@@ -1,6 +1,7 @@
 # Diabetes-Predictor
 
 **Overview**
+
 The Diabetes Predictor is a machine learning project that predicts the likelihood of diabetes based on patient health metrics. Using classification models, this project helps in assessing diabetes risk and contributes to preventive healthcare solutions.
 
 *Features*
